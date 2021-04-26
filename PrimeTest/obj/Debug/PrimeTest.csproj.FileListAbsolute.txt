@@ -1,0 +1,16 @@
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\PrimeTest.dll
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\PrimeTest.pdb
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\PrimeLogic.dll
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\PrimeLogic.pdb
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\PrimeNumbers\PrimeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\PrimeNumbers\PrimeTest\obj\Debug\PrimeTest.csprojAssemblyReference.cache
+C:\Projects\PrimeNumbers\PrimeTest\obj\Debug\PrimeTest.csproj.CoreCompileInputs.cache
+C:\Projects\PrimeNumbers\PrimeTest\obj\Debug\PrimeTest.csproj.CopyComplete
+C:\Projects\PrimeNumbers\PrimeTest\obj\Debug\PrimeTest.dll
+C:\Projects\PrimeNumbers\PrimeTest\obj\Debug\PrimeTest.pdb

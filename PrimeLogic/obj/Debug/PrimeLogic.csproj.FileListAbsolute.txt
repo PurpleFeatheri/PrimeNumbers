@@ -1,0 +1,5 @@
+C:\Projects\PrimeNumbers\PrimeLogic\bin\Debug\PrimeLogic.dll
+C:\Projects\PrimeNumbers\PrimeLogic\bin\Debug\PrimeLogic.pdb
+C:\Projects\PrimeNumbers\PrimeLogic\obj\Debug\PrimeLogic.csproj.CoreCompileInputs.cache
+C:\Projects\PrimeNumbers\PrimeLogic\obj\Debug\PrimeLogic.dll
+C:\Projects\PrimeNumbers\PrimeLogic\obj\Debug\PrimeLogic.pdb

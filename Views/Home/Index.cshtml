@@ -1,0 +1,18 @@
+﻿@model PrimeNumbers.Models.PrimeModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>Please, enter a prime number</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.EditorFor(model => model.Number)
+        <input type="submit" value="Submit" />
+    }
+    <h5>
+        @Html.DisplayFor(model => model.Message)
+    </h5>
+</div>
